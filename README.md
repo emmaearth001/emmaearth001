@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I’m Emma
 
-<!--
-**emmaearth001/emmaearth001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack engineer working on AI systems (LLMs, RAG, multimodal).  
+Previously at Airbnb, Twitter, and a YC backed startup.
 
-Here are some ideas to get you started:
+I focus on building end-to-end systems that behave reliably in real use — from idea to production.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected Work
+
+### Decimus
+AI orchestration system that transforms piano sketches into full orchestral scores  
+Combines LLM-based planning with rule-based execution to improve quality and control
+
+## What I work on
+
+- LLM systems and structured outputs  
+- Retrieval-augmented workflows (RAG)  
+- Full-stack applications (Next.js, Python, APIs)
+
+## Tech
+
+TypeScript, Next.js, Python, FastAPI, Supabase
