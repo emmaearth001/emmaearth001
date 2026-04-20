@@ -1,6 +1,6 @@
 # Hi, I’m Emma
 
-Full-stack engineer working on AI systems (LLMs, RAG, multimodal).  
+AI engineer working on AI systems (LLMs, RAG, multimodal).  
 Previously at Airbnb, Twitter, and a YC backed startup.
 
 I focus on building end-to-end systems that behave reliably in real use — from idea to production.
